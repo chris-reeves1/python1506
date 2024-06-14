@@ -106,6 +106,60 @@
 # error handling for upper/lower case
 # optional - input validation. 
 
+# 1st solution 
+
+# weight = float(input("enter weight: "))
+# unit = input("enter K (Kgs) or L (lbs): ")
+
+# if unit.upper() == "K":
+#     converted = weight / 0.45
+#     print(f"converted is {converted}")
+# elif unit.upper() == "L":
+#     converted = weight * 0.45
+#     print(f"converted is {converted}")
+# else:
+#     print("invalid unit enter K or L")
+
+#  2nd solution    
+# import sys
+
+# try:
+#     weight = float(input("enter weight: "))
+# # except ValueError:
+#     print("invalid input. Please enter a numeric value")
+#     sys.exit()
+
+# while True:
+#     unit = input("enter K (Kgs) or L (lbs): ").upper()
+#     if unit == "K":
+#         converted = weight / 0.45
+#         print(f"converted is {converted}")
+#         break
+#     elif unit == "L":
+#         converted = weight * 0.45
+#         print(f"converted is {converted}")
+#         break
+#     else:
+#         print("invalid unit enter K or L")
+
+# getting highest number 
+
+# num = 10
+# num1 = 20
+
+# if num > num1:
+#     print(num)
+# else: 
+#     print(num1)
+
+# rewrite without using if statements are any in built functions (no max!!)
 
 
+
+#num = 10
+#num1 = 20
+
+#largest = num * (num > num1) + num1 * (num1 > num)
+
+#print(F"largest is {largest}")
 
