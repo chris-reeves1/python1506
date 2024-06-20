@@ -1,0 +1,11 @@
+General comments
+john demonstrated a good understanding of Python and general programming concepts.
+john frequently contributed to group discussions and helped colleagues,
+completing most of the labs as required.
+
+Learner punctuality and Engagement
+john was consistently punctual and engaged well throughout the module.
+john often had their webcam on throughout the module, enhancing interaction.
+
+Recommendations on further learning
+Continue to practice intermediate concepts, such as functions/files/modules/testing.

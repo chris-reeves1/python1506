@@ -1,0 +1,11 @@
+General comments
+steve demonstrated a basic understanding of Python and general programming concepts.
+steve contributed to group discussions when asked,
+completing some of the labs as required.
+
+Learner punctuality and Engagement
+steve was sometimes punctual and engaged to some extent throughout the module.
+steve would benefit from having their webcam on in session to promote interaction.
+
+Recommendations on further learning
+Continue to practice basic concepts, such as iteration/conditionals/collections.
